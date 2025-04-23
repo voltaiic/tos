@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Slime Sorter - Terms of Service & Privacy Policy</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f6fa;
+      color: #333;
+    }
+    header {
+      background-color: #7289DA;
+      color: white;
+      padding: 20px 40px;
+      text-align: center;
+    }
+    main {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h1, h2, h3 {
+      color: #5865F2;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      color: #888;
+    }
+    a {
+      color: #5865F2;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>The Slime Sorter</h1>
+  <p>Terms of Service & Privacy Policy</p>
+</header>
+
+<main>
+  <p><em>Last updated: April 23, 2025</em></p>
+
+  <section>
+    <h2>Terms of Service</h2>
+
+    <h3>1. Description of Service</h3>
+    <p>The Slime Sorter is a Discord bot designed to assist with sorting, organizing, and managing various roles, events, and interactions in a playful and friendly way.</p>
+
+    <h3>2. Eligibility</h3>
+    <ul>
+      <li>You must be at least 13 years old.</li>
+      <li>You must have permission to use and manage bots in the server.</li>
+      <li>You must comply with Discord’s <a href="https://discord.com/terms" target="_blank">Terms of Service</a> and <a href="https://discord.com/guidelines" target="_blank">Community Guidelines</a>.</li>
+    </ul>
+
+    <h3>3. Prohibited Conduct</h3>
+    <ul>
+      <li>No illegal use,
